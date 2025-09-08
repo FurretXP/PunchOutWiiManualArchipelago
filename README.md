@@ -1,3 +1,6 @@
+# Please download from the Releases tab. I sometimes forget to update the main page.
+
+
 Punch-Out!! Wii Manual Archipelago
 
 The goal is to get through all of Career mode and beat Mr. Sandman Title Defense.
