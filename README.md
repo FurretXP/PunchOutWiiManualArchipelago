@@ -24,6 +24,7 @@ Taunt (Healing while Opponent Down)
 Headgear (100 Loss Reward, Obviously Only Available If You Actually Go Down 100 Times)
 
 
+----------------------------------------------------------------------------------------------------------
 
 
 ### This remaining section is for example sentences for activating Deathlink using Remote for Manual
